@@ -1,5 +1,7 @@
 Project Name:- Heart Disease Prediction using Machine Learning with Python.
+
 About
+
 Heart disease prediction using machine learning is a valuable tool in healthcare that can aid healthcare professionals in early detection and intervention, potentially saving lives and improving patient outcomes.
 DataSet
 The dataset has been collected from UCI Repository. It has come across 61 features which define and differentiate Heart Disease Prediction. This data is used for training and testing purpose. The Last column in this dataset indicates that, whether it's a mine or a rock, which is useful in prediction. The dataset is included in this repository.
